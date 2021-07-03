@@ -1,4 +1,6 @@
-Ao iniciarmos o projeto com os nossos orientadores apresentaram-nos a plataforma Trello para todo o planeamento do projeto
+Ao iniciarmos o projeto com os nossos orientadores foi nos apresentada a plataforma Trello para todo o planeamento do projeto. 
+A Trello é uma ferramente de gerenciamento de projetos com uma interface intuitiva e recursos como checklists, upload de arquivos e etiquetas coloridas. 
+Primeiro críamos as listas Design, Backlog, To-Do, Doing, Testing, Done e Accepted. A lista Design foi onde inserimos documentos pré-aplicação como Estado da Arte, Análise de Requisitos, Wireframes, Use Cases, Arquitetura e Modelo Entidade-Associação. 
 
 
 https://trello.com/invite/b/vYJ1uKnC/56da6d46c3b93c46794dbfa94206b387/onboarding-document-capture
