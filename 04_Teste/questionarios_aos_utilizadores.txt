@@ -1,0 +1,3 @@
+No desenvolvimento do projeto foram feitos dois questionários aos utilizadores foi feito um durante a implementação do projeto e outro no final da implementação.
+Questionário durante a implementação: https://docs.google.com/forms/d/1qTZYgEkdR8kMLr4rwhCZBcD8ZM_RjYGeC6htpXdRXbs/edit?usp=sharing
+Questionário após a implementação: https://docs.google.com/forms/d/1X8lTmns4l57IpG2XdzW2dKCvD4U5_BCToho4o8c4Wsg/edit?usp=sharing
