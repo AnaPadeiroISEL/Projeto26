@@ -1,6 +1,22 @@
-Ao iniciarmos o projeto com os nossos orientadores foi nos apresentada a plataforma Trello para todo o planeamento do projeto. 
+Ao iniciarmos o projeto com os nossos orientadores foi nos apresentada a plataforma Trello para todo o planeamento do projeto seguindo nos pela metodologia SCRUM.
+
 A Trello é uma ferramente de gerenciamento de projetos com uma interface intuitiva e recursos como checklists, upload de arquivos e etiquetas coloridas. 
-Primeiro críamos as listas Design, Backlog, To-Do, Doing, Testing, Done e Accepted. A lista Design foi onde inserimos documentos pré-aplicação como Estado da Arte, Análise de Requisitos, Wireframes, Use Cases, Arquitetura e Modelo Entidade-Associação. 
 
+A metodologia SCRUM é uma metodologia de desenvolvimento ágil utilizada no desenvolvimento de Sofware baseada em processos iterativos e incrementais. O principal objetivo 
+do SCRUM é satisfazer a necessidade do cliente, sendo para isso dividido em sprints.
+Um sprint tem uma duração predefinida, em que durante esse tempo o programador terá uma lista de tarefas a fazer que será definida no ínicio do sprint e quando chegar 
+ao fim do mesmo será apresentado ao cliente tudo o que foi implementado. Este método garante que exista uma melhor organização de tempo mas também de que seja alcançado 
+com maior facilidade o que o cliente realmente deseja pois estará sempre a par do que está a ser desenvolvido.
 
-https://trello.com/invite/b/vYJ1uKnC/56da6d46c3b93c46794dbfa94206b387/onboarding-document-capture
+Primeiro críamos as listas Design, Backlog, To-Do, Doing, Testing, Done e Accepted. 
+A lista Design foi onde inserimos documentos pré-aplicação como Estado da Arte, Análise de Requisitos, Wireframes, Use Cases, Arquitetura e Modelo Entidade-Associação. 
+No Backlog foram inseridas no ínicio todas as tarefas da nossa aplicação e ao longo do desenvolvimento foram movidas para outras listas. 
+No inicio do sprint eram escolhidas as tarefas a realizar durante o mesmo e por isso moviamos as tarefas do Backlog para o To-Do onde ainda definiamos um tempo máximo para as
+realizar.
+Quando fossemos desenvolver alguma das tarefas que estava no To-Do passavamos para o Doing para sabermos o que estava a ser desenvolvido para o outro elemento não ir mexer na 
+mesma tarefa. Ao ser terminada a implementação da tarefa seria movida para o Testing, as que tivessem nesta lista seriam testadas pelos dois elementos do grupo para garantir
+que estava realmente bem realizada.
+Depois de serem feitos os testes a tarefa passava para a lista Done. A tarefa ficaria no Done até ao fim do sprint, ao fim deste seria feita uma demo para os orientadores
+verem a realização das tarefas impostas a fazer naquele sprint ao serem validadas pelos orientadores passavam então para a lista Accepted.
+
+Para aceder à área de trabalho do Trello: https://trello.com/invite/b/vYJ1uKnC/56da6d46c3b93c46794dbfa94206b387/onboarding-document-capture
