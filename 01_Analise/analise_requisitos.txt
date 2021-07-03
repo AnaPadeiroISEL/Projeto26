@@ -1,0 +1,2 @@
+Antes de implementar a nossa aplicação foi necessário capturar os requisitos do sistema e organiza-los em Casos de Utilização para ter uma noção de todas as tarefas da 
+aplicação e qual o seguimento que teriam na aplicação. 
