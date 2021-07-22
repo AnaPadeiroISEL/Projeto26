@@ -1,7 +1,7 @@
 A nossa aplicação oferece ao utilizador a possibilidade de guardar documentos pessoais e faturas. Tendo o intuito de ajudar na organização do utilizador para ser notificado
 de quando se aproxima o fim do prazo de um pagamento ou de uma expiração de um documento ou até mesmo para ter um acesso mais rápido aos seus dados pessoais e de pagamentos
 a efetuar.
-O utilizador poderá fazer essa inserção de dados manualmente ou através uma extração de dados automática ao inserir uma foto/pdf do mesmo. Podemos aceder a uma lista de 
+O utilizador poderá fazer essa inserção de dados manualmente ou através uma extração de dados automática ao inserir uma foto do mesmo. Podemos aceder a uma lista de 
 documentos e outra de faturas, onde podemos ter acesso aos dados dos documentos/faturas adicionados. Teremos ainda um calendário para ter acesso a todas as datas importantes e
 ainda a lista de custos e gráficos para saber quais os gastos que o utilizador teve.
 
