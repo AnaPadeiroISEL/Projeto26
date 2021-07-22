@@ -1,0 +1,2 @@
+Para aceder a aplicação no pc: https://edulab01.outsystemsenterprise.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/OnboardingDocumentCapture_EU/Adicionar?_ts=637625563340844002
+Para instalar a aplicação no telemóvel: https://edulab01.outsystemsenterprise.com/NativeAppBuilder/App?AppKey=4e233c85-48d3-4412-adf2-2e0f0e49417f
